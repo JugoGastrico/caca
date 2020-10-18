@@ -1,0 +1,14 @@
+.page-sections{
+    padding: 4.5rem 0;
+}
+.page-sections--blue{
+    background-color: #2f5572;
+    color:white;
+}
+.wraper{
+    padding-left: 18px;
+    padding-right: 18px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -3,5 +3,5 @@
 @import 'modules/_large-hero.css';
 @import 'modules/_btn.css';
 @import 'base/_variables.css';
-
-
+@import 'modules/_wraper.css';
+@import 'modules/_page-sections.css';
