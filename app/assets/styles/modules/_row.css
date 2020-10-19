@@ -22,5 +22,20 @@
     .row--gutters > div{
         padding-right: 65px;
     }
+    .row--4-larger {
+        width: 37%;
+    }
+    .row--8-smaller{
+        width: 63%;
+    }
+    
 }
+.row--8-text{
+    p {
+        line-height: 1.65;
+        font-size: 1.25rem;
+        margin:1.8rem 0;
+    }
+}
+
 
