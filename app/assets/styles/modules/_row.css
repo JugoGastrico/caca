@@ -19,8 +19,14 @@
     .row--gutters{
         margin-right: -65px;
     }
+    .row--gutters-large{
+        margin-right: -100px;
+    }
     .row--gutters > div{
         padding-right: 65px;
+    }
+    .row--gutters-large > div{
+        padding-right: 100px;
     }
     .row--4-larger {
         width: 37%;
@@ -28,14 +34,12 @@
     .row--8-smaller{
         width: 63%;
     }
+    .row__medium-6{
+        float: left;
+        width: 50%;
+    }
     
 }
-.row--8-text{
-    p {
-        line-height: 1.65;
-        font-size: 1.25rem;
-        margin:1.8rem 0;
-    }
-}
+
 
 
