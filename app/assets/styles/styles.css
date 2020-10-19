@@ -5,3 +5,5 @@
 @import 'base/_variables.css';
 @import 'modules/_wraper.css';
 @import 'modules/_page-sections.css';
+@import 'modules/_headline.css';
+@import 'modules/_row.css';

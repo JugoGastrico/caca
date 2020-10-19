@@ -1,5 +1,10 @@
 .page-sections{
-    padding: 4.5rem 0;
+    padding: 1.25rem 0;
+}
+@media  (min-width: 800px){
+    .page-sections {
+        padding: 4.5rem 0;
+    }
 }
 .page-sections--blue{
     background-color: #2f5572;
