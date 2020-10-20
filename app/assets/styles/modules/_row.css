@@ -1,6 +1,6 @@
-.row{
+/*.row{
 
-}
+}*/
 
 @media  (min-width: 800px){
     .row--4{
@@ -38,7 +38,26 @@
         float: left;
         width: 50%;
     }
+    .row--t-padding{
+        padding-top: 80px;
+    }
+    .row--gutters-small > div{
+        padding-right: 45px;
+    }
+    .row--gutters-small{
+        margin-right: -45px;
+    }
+    .row--equal-height-at-medium {
+        display: flex;
+    }
+    .row--equal-height-at-medium > div {
+        float: none;
+        display: flex;
+    }
     
+}
+.row--t-padding{
+    padding-top: 80px;
 }
 
 

@@ -15,4 +15,9 @@
 }
 .section-title__icon{
     margin-right: .6rem;
+    position: relative;
+    top: 12px;
+}
+.section-title__blue{
+    color: #2f5572;
 }
