@@ -16,6 +16,7 @@
     /*Con esto centro el texto con la imagen horizontalmente top=50*/
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
+    padding-top: 60px;
 }
 .wraper{
     padding-left: 18px;
