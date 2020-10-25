@@ -3,6 +3,10 @@
     .section-title{
         font-size: 3.75rem;
     }
+    .section-title--less-margin{
+        margin-bottom: 1.5rem;
+        margin-top: 0;
+    }
     
 }
 .section-title{

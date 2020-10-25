@@ -1,0 +1,46 @@
+@media  (min-width: 580px){
+    .social-icons{
+        text-align: center;
+    
+    }
+    .social-icons__icon{
+        background-color: orangered;
+        display: inline-block;
+        width: 72px;
+        height: 72px;
+        margin:  5px 5px 5px;
+        position: relative;
+    
+    
+    }
+    .social-icons__icon img {
+        display: block;
+        position: absolute;
+        top:50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    } 
+}
+@media  (max-width: 580px){
+    .social-icons{
+        text-align: center;
+    
+    }
+    .social-icons__icon{
+        background-color: orangered;
+        display: inline-block;
+        width: 72px;
+        height: 72px;
+        margin:  5px 5px 5px;
+        position: relative;
+    
+    
+    }
+    .social-icons__icon img {
+        display: block;
+        position: absolute;
+        top:50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
