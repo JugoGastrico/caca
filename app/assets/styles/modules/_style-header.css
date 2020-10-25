@@ -2,7 +2,8 @@
     background-color: rgba(47, 85, 114, .55);
 }
 .style-header__menu-content{
-  
+    margin-left: auto;
+    margin-right: auto;
     display: none;
     padding-top: 100px;
     text-align: center;
@@ -66,7 +67,7 @@
 
 @media  (min-width: 1000px){
     .style-header{
-        position: absolute;
+        position: fixed;
         z-index: 2;
         background-color: rgba(47, 85, 114, .3);
         width: 100%;
@@ -83,4 +84,8 @@
     .style-header__menu-icon{
         display: none;
     }
+    .style-header--dark{
+        background-color: rgba(23, 51, 72, .85);
+    }
 }
+
